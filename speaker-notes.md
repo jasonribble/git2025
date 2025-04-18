@@ -1,0 +1,13 @@
+- Intro to git tutorial
+- Install / Download git 
+- Starting your own (git init)
+- Making a change (git commit)
+- What changed? (git diff)
+- What is staging vs unstaging
+- Creating a branch (git checkout)
+- Getting open source project - (git clone)
+- Make your branch on this project (git checkout)
+- Syncing with open source project - (git / git fetch)
+- What happened in this project (git log)
+- What changed for this project? (git diff)
+- Contributing to an open source project (git push)
